@@ -35,7 +35,7 @@ const repo = async (m, gss) => {
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: "120363354023106228@newsletter",
+              newsletterJid: "+20363391979107532@newsletter",
               newsletterName: "ObedTechX",
               serverMessageId: 143,
             },
