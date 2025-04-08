@@ -52,7 +52,7 @@ menu✅
 💜 Deploy CLOUD AI on Heroku with one click:
 
 <p align="center">
-  <a href="https://bera-tech-server.vercel.app" target="_blank">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Trippleo1802/OBED-TECHX1" target="_blank">
     <img alt="Deploy on Heroku" src="https://img.shields.io/badge/HEROKU-🚀 DEPLOY NOW 🚀-indigo?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black"/>
   </a>
 </p>
