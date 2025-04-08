@@ -64,7 +64,7 @@ menu✅
 💡 Need help? Reach out to the developer directly:
 
 <p align="center">
-  <a href="http://wa.me/254743982206" target="_blank">
+  <a href="http://wa.me/254701082940" target="_blank">
     <img alt="Contact Developer" src="https://img.shields.io/badge/CONTACT DEV-📲 MESSAGE NOW 📲-green?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/>
   </a>
 </p>
@@ -75,27 +75,11 @@ menu✅
 🚀 Stay updated with the latest news, updates, and features:
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I" target="_blank">
     <img alt="WhatsApp Channel" src="https://img.shields.io/badge/WHATSAPP CHANNEL-🔔 JOIN NOW 🔔-teal?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/>
   </a>
 </p>
 ---
 
-⚠️ Important Notice:
-
-🔹 CLOUD AI is 100% safe on Heroku.
-🔹 Contact the developer for more details.
-
-
----
-
-💡 Made with ❤️ by Bera Tech
-
-
----
-
-API Pairing Link
-
-CLOUD AI API Pairing
 
 
