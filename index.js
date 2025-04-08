@@ -119,7 +119,7 @@ Matrix.ev.on('connection.update', (update) => {
                 image: { url: "https://files.catbox.moe/67ln01.jpg" }, 
                 caption: `*Hello there User! 👋🏻* 
 
-> Simple, Straightforward, But Loaded With Features 🎊. Meet CLOUD-AI WhatsApp Bot.
+> Simple, Straightforward, But Loaded With Features 🎊. Meet OBED-TECHXWhatsApp Bot.
 
 *Thanks for using OBED TECHX 🚩* 
 
