@@ -1,9 +1,9 @@
 {
-  "name": "CLOUD Ai",
-  "description": "🚀 CLOUD AI WhatsApp MultiDevice Bot – Your ultimate AI-powered assistant, built in Node.js to revolutionize WhatsApp automation! From smart replies to advanced moderation, experience seamless interaction like never before. 💡✨",
-  "logo": "https://files.catbox.moe/7jt69h.jpg",
-  "keywords": ["BERA-TECH", "whatsapp-bot", "whatsapp-md-bot"],
-  "repository": "https://github.com/DEVELOPER-BERA/CLOUD-AI",
+  "name": "OBED TECHX",
+  "description": "🚀 OBED TECHX WhatsApp MultiDevice Bot – Your ultimate AI-powered assistant, built in Node.js to revolutionize WhatsApp automation! From smart replies to advanced moderation, experience seamless interaction like never before. 💡✨",
+  "logo": "https://files.catbox.moe/67ln01.jpg",
+  "keywords": ["OBED TECH", "whatsapp-bot", "whatsapp-md-bot"],
+  "repository": "https://github.com/Trippleo1802/OBED-TECHX1",
   "stack": "container",
   "env": { 
   
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "BRUCE BERA"
+      "value": "OBED TECHX"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "254743982206"
+      "value": "254701082940"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
