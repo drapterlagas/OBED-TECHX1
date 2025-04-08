@@ -1,4 +1,4 @@
-🌟 CLOUD AI 🌟
+🌟 OBED-TECHX 🌟
 
 <p align="center">
   <img src="https://files.catbox.moe/67ln01.jpg" width="500"/>
