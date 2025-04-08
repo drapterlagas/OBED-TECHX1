@@ -31,7 +31,7 @@ menu✅
 🔥 Click the button below to fork this repo. Don't forget to ⭐ star this repository if you find it useful!
 
 <p align="center">
-  <a href="https://github.com/DEVELOPER-BERA/CLOUD-AI/fork" target="_blank">
+  <a href="https://github.com/Trippleo1802/OBED-TECHX1/fork" target="_blank">
     <img alt="Fork Repo" src="https://img.shields.io/badge/FORK REPO-🔥 CLICK HERE 🔥-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
   </a>
 </p>
@@ -50,7 +50,7 @@ menu✅
 
 🚀 Deploy on Heroku
 
-💜 Deploy CLOUD AI on Heroku with one click:
+💜 Deploy OBED TECHX on Heroku with one click:
 
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Trippleo1802/OBED-TECHX1" target="_blank">
