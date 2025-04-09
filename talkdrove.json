@@ -1,8 +1,8 @@
 {
-  "bot-name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "bot-name": "OBED TECH X",
+  "description": "Javascript WhatsApp bot made by ObedTechX",
   "logo": "https://raw.githubusercontent.com/XdTechPro/KHAN-DATA/refs/heads/main/logo/KHAN.png",
-  "keywords": ["KHAN-MD"],
+  "keywords": ["OBED TECHX"],
   "documentation-link": "https://khanmdx.onrender.com",
   "owner-verification": "hhsjawad246@gmail.com",
 
@@ -15,7 +15,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "ObedTechX"
     }, 
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -70,17 +70,17 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "ObedTechX"
     }, 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "254701082940"
     }, 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "OBED TECHX"
     }, 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
@@ -95,7 +95,7 @@
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© POWERED BY OBED TECHX*"
     },
     "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
