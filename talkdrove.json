@@ -1,9 +1,9 @@
 {
   "bot-name": "OBED TECH X",
   "description": "Javascript WhatsApp bot made by ObedTechX",
-  "logo": "https://raw.githubusercontent.com/XdTechPro/KHAN-DATA/refs/heads/main/logo/KHAN.png",
+  "logo": "",
   "keywords": ["OBED TECHX"],
-  "documentation-link": "https://khanmdx.onrender.com",
+  "documentation-link": "https://cloud-tech-tces.onrender.com/",
   "owner-verification": "omokeobed0@gmail.com",
 
   "env": {
