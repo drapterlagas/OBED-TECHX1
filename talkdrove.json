@@ -2,10 +2,10 @@
 {
     "bot-name": "OBED TECHX",
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr ObedTechX",
-    "logo": "https://i.ibb.co/WNzz5RJV/lordcasey.jpg",
+    "logo": "https://files.catbox.moe/67ln01.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://pairs-rzev.onrender.com/",
-    "owner-verification": "caseywebsthedonn25@gmail.com",
+    "owner-verification": "techobed06@gmail.com",
   
     "env": {
       "SESSION_ID": {
