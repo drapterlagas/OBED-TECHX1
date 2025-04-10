@@ -1,7 +1,7 @@
 
 {
-    "bot-name": "CASEYRHODES XMD",
-    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Caseyrhodes",
+    "bot-name": "OBED TECHX",
+    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr ObedTechX",
     "logo": "https://i.ibb.co/WNzz5RJV/lordcasey.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://pairs-rzev.onrender.com/",
@@ -84,20 +84,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐅𝐫𝐚𝐧𝐤"
+      "value": "𝐌r Obed"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254719646303"
+      "value": "254701082940"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "CASEYRHODES-XMD"
+      "value": "OBED TECHX"
 
       }, 
 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*"
+      "value": "*© powered by ObedTechx*"
     },
 
       "DELETE_LINKS": {
