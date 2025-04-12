@@ -15,9 +15,9 @@ menu✅
 
 ---
 
-🔥 Want to Purchase a Bot at a Cheaper Price?
+🔥 Want to vist my web and deploy other bits?
 
-✨ Get your bot at a Cheaper Price by clicking the button below:
+✨ deploy more bots and join my channel for update  by clicking the button below:
 
 <p align="center">
   <a href="https://obed-webs-3.onrender.com/" target="_blank">
