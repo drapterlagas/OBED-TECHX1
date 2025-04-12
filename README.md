@@ -15,7 +15,7 @@ menu✅
 
 ---
 
-🔥 Want to vist my web and deploy other bits?
+🔥 Want to vist my web and deploy other bots?
 
 ✨ deploy more bots and join my channel for update  by clicking the button below:
 
