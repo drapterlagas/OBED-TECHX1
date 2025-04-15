@@ -20,7 +20,7 @@ menu✅
 ✨ deploy more bots and join my channel for update  by clicking the button below:
 
 <p align="center">
-  <a href="https://obed-webs-3.onrender.com/" target="_blank">
+  <a href="https://paircodetechx.onrender.com/" target="_blank">
     <img alt="Pair Code" src="https://img.shields.io/badge/CLICK HERE-⚡ GET YOUR BOT NOW ⚡-gold?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/>
   </a>
 </p>
