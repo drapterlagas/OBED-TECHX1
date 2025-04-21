@@ -68,22 +68,22 @@ const menu = async (m, Matrix) => {
 
   if (validCommands.includes(cmd)) {
     const mainMenu = `
-╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
-┃★╭──────────────
-┃★│ Owner : *${config.OWNER_NAME}*
-┃★│ User : *${m.pushName}*
-┃★│ Baileys : *Multi Device*
-┃★│ Type : *NodeJs*
-┃★│ Mode : *${mode}*
-┃★│ Platform : *${os.platform()}*
-┃★│ Prefix : [${prefix}]
-┃★│ Version : *3.1.0*
-┃★╰──────────────
+╭━━━〔 *𝐉𝐈𝐍𝐗-𝐗𝐌𝐃* 〕━━━┈⊷
+┃❍╭──────────────
+┃❍│ *ᴏᴡɴᴇʀ* : ${config.OWNER_NAME}
+┃❍│ *ᴜsᴇʀ* : ${m.pushName}
+┃❍│ *ᴛʏᴘᴇ* : NodeJs
+┃❍│ *ᴍᴏᴅᴇ* : ${mode}
+┃❍│ *ᴅᴇᴠᴇʟᴏᴘᴇʀ* : ᴍʀ.ᴄᴀsᴇʏʀʜᴏᴅᴇs
+┃❍│ *ᴘʟᴀᴛғᴏʀᴍ* : ${os.platform()}
+┃❍│ *ᴘʀᴇғɪx* : [${prefix}]
+┃❍│ *ᴠᴇʀsɪᴏɴ* : 3.1.0
+┃❍╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 
 > ${pushwish} *${m.pushName}*!
 
-╭━━〔 *Menu List* 〕━━┈⊷
+╭━━〔 *𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• 1. Download Menu      
 ┃◈┃• 2. Converter Menu        
@@ -94,10 +94,9 @@ const menu = async (m, Matrix) => {
 ┃◈┃• 7. Main Menu
 ┃◈┃• 8. Owner Menu 
 ┃◈┃• 9. Stalk Menu     
-┃◈┃• update
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> *Reply with the number (1-9)*`;
+> *ʀᴇᴘʟʏ ᴡɪᴛʜ ɴᴜᴍʙᴇʀ ғᴏʀ (1-9)*`;
 
     // Function to get menu image
     const getMenuImage = async () => {
@@ -107,10 +106,10 @@ const menu = async (m, Matrix) => {
           return Buffer.from(response.data, 'binary');
         } catch (error) {
           console.error('Error fetching menu image from URL, falling back to local image:', error);
-          return fs.readFileSync('./media/khan.jpg');
+          return fs.readFileSync('./media/Casey.jpg');
         }
       } else {
-        return fs.readFileSync('./media/khan.jpg');
+        return fs.readFileSync('./media/Casey.jpg');
       }
     };
 
@@ -124,8 +123,8 @@ const menu = async (m, Matrix) => {
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363391979107532@newsletter',
-          newsletterName: "ObedTechX",
+          newsletterJid: '120363302677217436@newsletter',
+          newsletterName: "JINX-XMD⚧️",
           serverMessageId: 143
         }
       }
@@ -135,7 +134,7 @@ const menu = async (m, Matrix) => {
 
     // Send audio after sending the menu
     await Matrix.sendMessage(m.from, {
-      audio: { url: 'https://files.catbox.moe/rvfjap.mp3' },
+      audio: { url: 'https://files.catbox.moe/nv9mjv.mp3' },
       mimetype: 'audio/mp4',
       ptt: true
     }, { quoted: m });
@@ -343,8 +342,8 @@ ${menuResponse}
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363391979107532@newsletter',
-            newsletterName: "ObedTechX",
+            newsletterJid: '120363302677217436@newsletter',
+            newsletterName: "JINX-XMD⚧️",
             serverMessageId: 143
           }
         }
