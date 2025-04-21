@@ -68,13 +68,13 @@ const menu = async (m, Matrix) => {
 
   if (validCommands.includes(cmd)) {
     const mainMenu = `
-╭━━━〔 *𝐉𝐈𝐍𝐗-𝐗𝐌𝐃* 〕━━━┈⊷
+╭━━━〔 *OBED-TECH* 〕━━━┈⊷
 ┃❍╭──────────────
 ┃❍│ *ᴏᴡɴᴇʀ* : ${config.OWNER_NAME}
 ┃❍│ *ᴜsᴇʀ* : ${m.pushName}
 ┃❍│ *ᴛʏᴘᴇ* : NodeJs
 ┃❍│ *ᴍᴏᴅᴇ* : ${mode}
-┃❍│ *ᴅᴇᴠᴇʟᴏᴘᴇʀ* : ᴍʀ.ᴄᴀsᴇʏʀʜᴏᴅᴇs
+┃❍│ *ᴅᴇᴠᴇʟᴏᴘᴇʀ* : ᴍʀ.OBED TECH
 ┃❍│ *ᴘʟᴀᴛғᴏʀᴍ* : ${os.platform()}
 ┃❍│ *ᴘʀᴇғɪx* : [${prefix}]
 ┃❍│ *ᴠᴇʀsɪᴏɴ* : 3.1.0
@@ -123,8 +123,8 @@ const menu = async (m, Matrix) => {
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363302677217436@newsletter',
-          newsletterName: "JINX-XMD⚧️",
+          newsletterJid: '120363391979107532@newsletter',
+          newsletterName: "OBED-TECH⚧️",
           serverMessageId: 143
         }
       }
@@ -342,8 +342,8 @@ ${menuResponse}
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363302677217436@newsletter',
-            newsletterName: "JINX-XMD⚧️",
+            newsletterJid: '120363391979107532@newsletter',
+            newsletterName: "OBED-TECH⚧️",
             serverMessageId: 143
           }
         }
