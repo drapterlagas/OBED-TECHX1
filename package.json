@@ -7,8 +7,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  ...
   "dependencies": {
-    // keep only actual required modules (exclude built-in ones)
   }
 }
